@@ -1,0 +1,12 @@
+
+body{
+    background-color: darkgrey; 
+    transition: 50%;
+}
+
+img:hover{
+   content: url(img.luz.ligado.png);
+}
+h1{
+    color: azure;
+}
